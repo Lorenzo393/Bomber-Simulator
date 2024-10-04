@@ -6,6 +6,21 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Bomber.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Animations/Bomber_Run.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Animations/Bomber_Dance.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Animations/Bomber_Idle.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Animations/Bomber_Walk.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Ch19_Body.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Ch19_1001_Diffuse.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Ch19_1001_Specular.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Ch19_1001_Glossiness.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Ch19_1001_Normal.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Bomber_Skeleton.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Bomber_PhysicsAsset.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/BP_Bomber.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/Characters/Bomber/Animations/BPAnim_Bomber.uasset",
 				"C:/Users/loloc/OneDrive/Escritorio/Bomber_Simulator/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
 			]
 		}
